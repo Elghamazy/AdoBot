@@ -30,7 +30,7 @@ Opensource Android Spyware
 
 Just compile (as signed APK) and install the app to the victim's android device. Then start the app and configure the parameters:
 
-- ***Server URL:*** Set the URL of your [AdoBot-IO](https://github.com/adonespitogo/AdoBot-IO) server. It must include the protocol i.e. `https://adobot.herokuapp.com` (default).
+- ***Server URL:*** Set the URL of your [AdoBot-IO](https://github.com/adonespitogo/AdoBot-IO) server. It must include the protocol e.g. `https://adobot.herokuapp.com` (default).
 - ***SMS Open Command:*** Send an SMS to any number containing this text to open the Adobot settings. "Open adobot" (default).
 - ***Force Command:*** Send an SMS containing this text to the victim's phone to forcefully sync data to server. "Baby?" (default).
 
